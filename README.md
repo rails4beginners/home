@@ -1,7 +1,10 @@
 Rails for Beginners
+
 ====
 
 <a href="http://atnd.org/events/28948" target="_blank">Vol.0</a>
+
+<a href="https://github.com/rails4beginners/home/wiki/micro" target="_blank">Micro</a>
 
 ### テーマ
 
@@ -13,12 +16,6 @@ Rails for Beginners
 * 自分が学ぶだけでなく、自分が学んだ事をちゃんと"次へ"渡したい
 * 人に教える事によって自分が学ぶ事が出来る
 * 単純にWebアプリケーションを作る楽しさを知って欲しい
-
-### 課題
-
-* BBS
-* 日記
-* ブログ
 
 ### 主な想定対象
 
@@ -32,18 +29,7 @@ Rails for Beginners
 * Mac、Git、Ruby、Rails、GitHub、Heroku  
   ※Windowsはサポート対象外です。
 
-### タイムテーブル
-
-時間|内容|備考
-----|----|----
-13:00〜14:00|環境構築サポート|環境未構築の希望者のみ
-14:00〜14:30|集合／諸説明／自己紹介|簡単に趣旨説明、集まった人から自己紹介
-14:30〜15:00|課題ライブコーディングデモ|
-15:00〜18:00|各自課題作業|サポートエンジニアがサポートしつつ各自作業
-18:00〜18:30|成果発表|やったこと、困ったこと、詰まったところなどを簡単に
-18:30〜19:00|クロージング／解散|
-
 ### 持ち物
 
-* MacBook／MacBook Pro／MacBook Airのいずれか(Snow Leopard or Lion)  
+* MacBook／MacBook Pro／MacBook Airのいずれか(Snow Leopard Later)  
   ※電源、Wi-Fiは会場にあります。
