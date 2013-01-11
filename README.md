@@ -1,10 +1,10 @@
 # Rails for Beginners
 
+<a href="http://rails4beginners.github.com/micro/" target="_blank">Micro</a>
+
 <a href="http://atnd.org/events/28948" target="_blank">Vol.0</a>
 
 <a href="http://atnd.org/events/35323" target="_blank">Vol.1</a>
-
-<a href="http://rails4beginners.github.com/micro/" target="_blank">Micro</a>
 
 ### テーマ
 
