@@ -1,10 +1,6 @@
 # Rails for Beginners
 
-<a href="http://rails4beginners.github.com/micro/" target="_blank">Micro</a>
-
-<a href="http://atnd.org/events/28948" target="_blank">Vol.0</a>
-
-<a href="http://atnd.org/events/35323" target="_blank">Vol.1</a>
+<a href="https://www.facebook.com/groups/rails4beginners/" target="_blank">Facebookグループ</a>
 
 ### テーマ
 
@@ -33,3 +29,12 @@
 
 * MacBook／MacBook Pro／MacBook Airのいずれか(Snow Leopard Later)  
   ※電源、Wi-Fiは会場にあります。
+
+### 開催場所
+
+* <a href="http://tane-maki.net/" target="_blank">タネマキ 【コワーキング ＆ シェアオフィススペース】</a>
+
+### 主催
+
+* <a href="https://twitter.com/shu_0115" target="_blank">@shu_0115</a>
+* <a href="http://shu0115.github.com/portfolio/" target="_blank">Portfolio by shu0115</a>
