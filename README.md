@@ -36,5 +36,5 @@
 
 ### 主催
 
-* <a href="https://twitter.com/shu_0115" target="_blank">@shu_0115</a>
+* <a href="https://github.com/shu0115" target="_blank">shu_0115</a>
 * <a href="http://shu0115.github.com/portfolio/" target="_blank">Portfolio by shu0115</a>
