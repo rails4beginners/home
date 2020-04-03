@@ -25,15 +25,6 @@
 * Mac、Git、Ruby、Rails、GitHub、Heroku  
   ※Windowsはサポート対象外です。
 
-### 持ち物
-
-* MacBook／MacBook Pro／MacBook Airのいずれか(Snow Leopard Later)  
-  ※電源、Wi-Fiは会場にあります。
-
-### 開催場所
-
-* <a href="http://tane-maki.net/" target="_blank">タネマキ 【コワーキング ＆ シェアオフィススペース】</a>
-
 ### 主催
 
 * <a href="https://github.com/shu0115" target="_blank">shu_0115</a>
